@@ -1,0 +1,8 @@
+l1_url = "RPC URL for L1 node"
+l2_url = "RPC URL for L2 node"
+watched_account = "Public key of the account to monitor"
+wallet_path = "Path to wallet key file"
+l1_program_id = "Program ID on L1 chain"
+l2_program_id = "Program ID on L2 chain"
+fixed_account = "Public key of the fixed account"
+nonce_account = "Public key of the nonce account"
